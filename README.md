@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first git project linked to VS Code. I previously used github desktop app or rstudio.
+BookBot is my first git project integrated in VS Code. I previously used the github desktop app and the git integration in rstudio for version control. 
